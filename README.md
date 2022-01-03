@@ -12,7 +12,7 @@ This repository contains all the material and practice programs that are covered
 #### 3. Exception handling-try, catch, throw blocks ,creating own exception
 
 #### 4. Array and linked list 
-#### 5.stack, queue
+#### 5. Stack, queue
 #### 6. JDBC
 ->Drivers,DB connectivity steps, connectivity with oracle, connectivity with MYSQL
 
@@ -23,10 +23,12 @@ This repository contains all the material and practice programs that are covered
 ->Batch processing, rowset Interface
 
 ->Selecting data from tables-insert, update ,delete data from DB, creating prepared stmt
+
 ->JDBC project 
 
-#### 7.tree
-#### 8.intro to networking in java
+#### 7. Tree
+
+#### 8. Intro to networking in java
 ->Socket programming
 
 ->URL class,URL connection class
