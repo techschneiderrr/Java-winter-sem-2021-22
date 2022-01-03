@@ -3,27 +3,39 @@
 
 This repository contains all the material and practice programs that are covered in the Java-winter-sem-2021-22 course.
 
-### This repository contains :
+### This repository contains code related to :
 
 #### 1. Overview of java & importance of java collections -real time examples
 
 #### 2. Mutltithreading
-3. Exception handling-try, catch, throw blocks ,creating own exception
-4. Array and linked list 
-5.stack, queue
-6. JDBC
-->drivers,DB connectivity steps, connectivity with oracle, connectivity with MYSQL
+
+#### 3. Exception handling-try, catch, throw blocks ,creating own exception
+
+#### 4. Array and linked list 
+#### 5.stack, queue
+#### 6. JDBC
+->Drivers,DB connectivity steps, connectivity with oracle, connectivity with MYSQL
+
 ->Driver manager, connection, statement, result set, prepared statement, resultsetmetadata, databasemetadata
-->store image, retrieve image, store file, retrieve file ,callable stmt, transaction management
-->batch processing, rowset Interface
-->selecting data from tables-insert, update ,delete data from DB, creating prepared stmt
-->JDBC project 7.tree
-8.intro to networking in java
-->socket programming
+
+->Store image, retrieve image, store file, retrieve file ,callable stmt, transaction management
+
+->Batch processing, rowset Interface
+
+->Selecting data from tables-insert, update ,delete data from DB, creating prepared stmt
+->JDBC project 
+
+#### 7.tree
+#### 8.intro to networking in java
+->Socket programming
+
 ->URL class,URL connection class
-->sending HTTP request,HTTPURL connection
+
+->Sending HTTP request,HTTPURL connection
+
 ->Inet address class
-9. Project
+
+#### 9. Project
 
 
 
