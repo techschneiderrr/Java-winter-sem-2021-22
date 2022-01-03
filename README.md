@@ -3,10 +3,11 @@
 
 This repository contains all the material and practice programs that are covered in the Java-winter-sem-2021-22 course.
 
-###This repository contains :
+### This repository contains :
 
-####1. Overview of java & importance of java collections -real time examples
-####2. Mutltithreading
+#### 1. Overview of java & importance of java collections -real time examples
+
+#### 2. Mutltithreading
 3. Exception handling-try, catch, throw blocks ,creating own exception
 4. Array and linked list 
 5.stack, queue
