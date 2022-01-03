@@ -11,16 +11,24 @@ This repository contains all the material and practice programs that are covered
 #### 5. Stack, queue
 #### 6. JDBC
 ->Drivers,DB connectivity steps, connectivity with oracle, connectivity with MYSQL
+
 ->Driver manager, connection, statement, result set, prepared statement, resultsetmetadata, databasemetadata
+
 ->Store image, retrieve image, store file, retrieve file ,callable stmt, transaction management
+
 ->Batch processing, rowset Interface
+
 ->Selecting data from tables-insert, update ,delete data from DB, creating prepared stmt
+
 ->JDBC project 
 #### 7. Tree
 #### 8. Intro to networking in java
 ->Socket programming
+
 ->URL class,URL connection class
+
 ->Sending HTTP request,HTTPURL connection
+
 ->Inet address class
 #### 9. Project
 
