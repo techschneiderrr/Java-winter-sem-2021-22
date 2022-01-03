@@ -5,18 +5,18 @@ This repository contains all the material and practice programs that are covered
 
 
 
-## Deployment
+## To run
 
-To deploy this project run
+To run this repository contents, simply have a java compiler ready on your system and you are ready to go.
 
 ```bash
-  clone the repository and open in Xcode
+  clone the repository and open in a java compiler.
 ```
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.26.14%20PM.png)
+![App Screenshot](https://github.com/techschneiderrr/Java-winter-sem-2021-22/blob/main/assets/java.jpg)
 
 
 
